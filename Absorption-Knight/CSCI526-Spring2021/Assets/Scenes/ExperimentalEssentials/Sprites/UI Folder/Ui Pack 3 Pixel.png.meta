@@ -1,0 +1,6098 @@
+fileFormatVersion: 2
+guid: 49f9625a8e6f1c14a99ee236e4a8a2d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: box_01A
+  - first:
+      213: 21300002
+    second: box_02A
+  - first:
+      213: 21300004
+    second: box_03A
+  - first:
+      213: 21300006
+    second: box_04A
+  - first:
+      213: 21300008
+    second: box_05A
+  - first:
+      213: 21300010
+    second: box_06A
+  - first:
+      213: 21300012
+    second: box_07A
+  - first:
+      213: 21300014
+    second: icon_up1a
+  - first:
+      213: 21300016
+    second: icon_Down1a
+  - first:
+      213: 21300018
+    second: icon_right1a
+  - first:
+      213: 21300020
+    second: icon_left1a
+  - first:
+      213: 21300022
+    second: icon_home1
+  - first:
+      213: 21300024
+    second: icon_restart1
+  - first:
+      213: 21300026
+    second: icon_heart1
+  - first:
+      213: 21300028
+    second: banner1a
+  - first:
+      213: 21300030
+    second: box_01B
+  - first:
+      213: 21300032
+    second: box_02B
+  - first:
+      213: 21300034
+    second: box_03B
+  - first:
+      213: 21300036
+    second: box_04B
+  - first:
+      213: 21300038
+    second: box_05B
+  - first:
+      213: 21300040
+    second: box_06B
+  - first:
+      213: 21300042
+    second: box_07B
+  - first:
+      213: 21300044
+    second: icon_up1b
+  - first:
+      213: 21300046
+    second: icon_Down1b
+  - first:
+      213: 21300048
+    second: icon_right1b
+  - first:
+      213: 21300050
+    second: icon_left1b
+  - first:
+      213: 21300052
+    second: icon_config1
+  - first:
+      213: 21300054
+    second: icon_ranking1
+  - first:
+      213: 21300056
+    second: icon_minus1
+  - first:
+      213: 21300058
+    second: icon_plus1
+  - first:
+      213: 21300060
+    second: icon_close1
+  - first:
+      213: 21300062
+    second: icon_question1
+  - first:
+      213: 21300064
+    second: icon_locker1a
+  - first:
+      213: 21300066
+    second: icon_locker1b
+  - first:
+      213: 21300068
+    second: banner2a
+  - first:
+      213: 21300070
+    second: box_01C
+  - first:
+      213: 21300072
+    second: box_02C
+  - first:
+      213: 21300074
+    second: box_03C
+  - first:
+      213: 21300076
+    second: box_04C
+  - first:
+      213: 21300078
+    second: box_05C
+  - first:
+      213: 21300080
+    second: box_06C
+  - first:
+      213: 21300082
+    second: box_07D
+  - first:
+      213: 21300084
+    second: icon_music1
+  - first:
+      213: 21300086
+    second: icon_sound1
+  - first:
+      213: 21300088
+    second: icon_menu1
+  - first:
+      213: 21300090
+    second: icon_star1
+  - first:
+      213: 21300092
+    second: icon_info1
+  - first:
+      213: 21300094
+    second: icon_chat1
+  - first:
+      213: 21300096
+    second: banner1b
+  - first:
+      213: 21300098
+    second: icon_facebook1
+  - first:
+      213: 21300100
+    second: icon_coin1a
+  - first:
+      213: 21300102
+    second: icon_coin1b
+  - first:
+      213: 21300104
+    second: icon_diamond1
+  - first:
+      213: 21300106
+    second: box_01D
+  - first:
+      213: 21300108
+    second: box_02D
+  - first:
+      213: 21300110
+    second: box_03D
+  - first:
+      213: 21300112
+    second: box_04D
+  - first:
+      213: 21300114
+    second: box_05D
+  - first:
+      213: 21300116
+    second: box_06D
+  - first:
+      213: 21300118
+    second: box_07E
+  - first:
+      213: 21300120
+    second: icon_up2a
+  - first:
+      213: 21300122
+    second: icon_Down2a
+  - first:
+      213: 21300124
+    second: icon_right2a
+  - first:
+      213: 21300126
+    second: icon_left2a
+  - first:
+      213: 21300128
+    second: icon_home2
+  - first:
+      213: 21300130
+    second: icon_restart2
+  - first:
+      213: 21300132
+    second: icon_heart2
+  - first:
+      213: 21300134
+    second: banner2b
+  - first:
+      213: 21300136
+    second: box_01E
+  - first:
+      213: 21300138
+    second: box_02E
+  - first:
+      213: 21300140
+    second: box_03E
+  - first:
+      213: 21300142
+    second: box_04E
+  - first:
+      213: 21300144
+    second: box_05E
+  - first:
+      213: 21300146
+    second: box_06E
+  - first:
+      213: 21300148
+    second: box_07F
+  - first:
+      213: 21300150
+    second: icon_up2b
+  - first:
+      213: 21300152
+    second: icon_Down2b
+  - first:
+      213: 21300154
+    second: icon_right2b
+  - first:
+      213: 21300156
+    second: icon_left2b
+  - first:
+      213: 21300158
+    second: icon_pause2
+  - first:
+      213: 21300160
+    second: icon_config2
+  - first:
+      213: 21300162
+    second: icon_ranking2
+  - first:
+      213: 21300164
+    second: icon_minus2
+  - first:
+      213: 21300166
+    second: icon_plus2
+  - first:
+      213: 21300168
+    second: icon_close2
+  - first:
+      213: 21300170
+    second: icon_question2
+  - first:
+      213: 21300172
+    second: icon_star2
+  - first:
+      213: 21300174
+    second: icon_locker2a
+  - first:
+      213: 21300176
+    second: icon_locker2b
+  - first:
+      213: 21300178
+    second: box_01F
+  - first:
+      213: 21300180
+    second: box_02F
+  - first:
+      213: 21300182
+    second: box_03F
+  - first:
+      213: 21300184
+    second: box_04F
+  - first:
+      213: 21300186
+    second: box_05F
+  - first:
+      213: 21300188
+    second: box_06F
+  - first:
+      213: 21300190
+    second: box_07H
+  - first:
+      213: 21300192
+    second: icon_music2
+  - first:
+      213: 21300194
+    second: icon_sound2
+  - first:
+      213: 21300196
+    second: icon_menu2
+  - first:
+      213: 21300198
+    second: icon_trophy2
+  - first:
+      213: 21300200
+    second: icon_info2
+  - first:
+      213: 21300202
+    second: icon_chat2
+  - first:
+      213: 21300204
+    second: icon_facebook2
+  - first:
+      213: 21300206
+    second: icon_coin2a
+  - first:
+      213: 21300208
+    second: icon_coin2b
+  - first:
+      213: 21300210
+    second: icon_diamond2
+  - first:
+      213: 21300212
+    second: box_01G
+  - first:
+      213: 21300214
+    second: box_02G
+  - first:
+      213: 21300216
+    second: box_03G
+  - first:
+      213: 21300218
+    second: box_04G
+  - first:
+      213: 21300220
+    second: box_05G
+  - first:
+      213: 21300222
+    second: box_06G
+  - first:
+      213: 21300224
+    second: box_07I
+  - first:
+      213: 21300226
+    second: icon_up3a
+  - first:
+      213: 21300228
+    second: icon_Down3a
+  - first:
+      213: 21300230
+    second: icon_right3a
+  - first:
+      213: 21300232
+    second: icon_left3a
+  - first:
+      213: 21300234
+    second: icon_home3
+  - first:
+      213: 21300236
+    second: icon_restart3
+  - first:
+      213: 21300238
+    second: icon_heart3
+  - first:
+      213: 21300240
+    second: box_01H
+  - first:
+      213: 21300242
+    second: box_02H
+  - first:
+      213: 21300244
+    second: box_03H
+  - first:
+      213: 21300246
+    second: box_04H
+  - first:
+      213: 21300248
+    second: box_05H
+  - first:
+      213: 21300250
+    second: box_06H
+  - first:
+      213: 21300252
+    second: box_07J
+  - first:
+      213: 21300254
+    second: icon_up3b
+  - first:
+      213: 21300256
+    second: icon_Down3b
+  - first:
+      213: 21300258
+    second: icon_right3b
+  - first:
+      213: 21300260
+    second: icon_left3e
+  - first:
+      213: 21300262
+    second: icon_config3
+  - first:
+      213: 21300264
+    second: icon_ranking3
+  - first:
+      213: 21300266
+    second: icon_minus3
+  - first:
+      213: 21300268
+    second: icon_plus3
+  - first:
+      213: 21300270
+    second: icon_close3
+  - first:
+      213: 21300272
+    second: icon_question3
+  - first:
+      213: 21300274
+    second: icon_locker3a
+  - first:
+      213: 21300276
+    second: icon_locker3b
+  - first:
+      213: 21300278
+    second: box_01I
+  - first:
+      213: 21300280
+    second: box_02I
+  - first:
+      213: 21300282
+    second: box_03I
+  - first:
+      213: 21300284
+    second: box_04I
+  - first:
+      213: 21300286
+    second: box_05I
+  - first:
+      213: 21300288
+    second: box_06I
+  - first:
+      213: 21300290
+    second: box_07K
+  - first:
+      213: 21300292
+    second: icon_music3
+  - first:
+      213: 21300294
+    second: icon_sound3
+  - first:
+      213: 21300296
+    second: icon_trophy3
+  - first:
+      213: 21300298
+    second: icon_star3
+  - first:
+      213: 21300300
+    second: icon_info3
+  - first:
+      213: 21300302
+    second: icon_chat3
+  - first:
+      213: 21300304
+    second: icon_facebook3
+  - first:
+      213: 21300306
+    second: icon_coin3a
+  - first:
+      213: 21300308
+    second: icon_coin3b
+  - first:
+      213: 21300310
+    second: icon_diamond3
+  - first:
+      213: 21300312
+    second: box_01J
+  - first:
+      213: 21300314
+    second: box_02J
+  - first:
+      213: 21300316
+    second: box_03J
+  - first:
+      213: 21300318
+    second: box_04J
+  - first:
+      213: 21300320
+    second: box_05J
+  - first:
+      213: 21300322
+    second: box_06J
+  - first:
+      213: 21300324
+    second: box_07L
+  - first:
+      213: 21300326
+    second: box_01K
+  - first:
+      213: 21300328
+    second: box_02K
+  - first:
+      213: 21300330
+    second: box_03K
+  - first:
+      213: 21300332
+    second: box_04K
+  - first:
+      213: 21300334
+    second: box_05K
+  - first:
+      213: 21300336
+    second: box_06K
+  - first:
+      213: 21300338
+    second: box_07M
+  - first:
+      213: 21300340
+    second: box_01L
+  - first:
+      213: 21300342
+    second: box_02L
+  - first:
+      213: 21300344
+    second: box_03L
+  - first:
+      213: 21300346
+    second: box_04L
+  - first:
+      213: 21300348
+    second: box_05L
+  - first:
+      213: 21300350
+    second: box_06L
+  - first:
+      213: 21300352
+    second: box_07N
+  - first:
+      213: 21300354
+    second: box_01M
+  - first:
+      213: 21300356
+    second: box_02M
+  - first:
+      213: 21300358
+    second: box_03M
+  - first:
+      213: 21300360
+    second: box_04M
+  - first:
+      213: 21300362
+    second: box_05M
+  - first:
+      213: 21300364
+    second: box_06M
+  - first:
+      213: 21300366
+    second: box_07O
+  - first:
+      213: 21300368
+    second: box_01N
+  - first:
+      213: 21300370
+    second: box_02N
+  - first:
+      213: 21300372
+    second: box_03N
+  - first:
+      213: 21300374
+    second: box_04N
+  - first:
+      213: 21300376
+    second: box_05N
+  - first:
+      213: 21300378
+    second: box_06N
+  - first:
+      213: 21300380
+    second: box_07P
+  - first:
+      213: 21300382
+    second: box_01O
+  - first:
+      213: 21300384
+    second: box_02O
+  - first:
+      213: 21300386
+    second: box_03O
+  - first:
+      213: 21300388
+    second: box_04O
+  - first:
+      213: 21300390
+    second: box_05O
+  - first:
+      213: 21300392
+    second: box_06O
+  - first:
+      213: 21300394
+    second: box_07O
+  - first:
+      213: 21300396
+    second: box_01P
+  - first:
+      213: 21300398
+    second: box_02P
+  - first:
+      213: 21300400
+    second: box_03P
+  - first:
+      213: 21300402
+    second: box_04P
+  - first:
+      213: 21300404
+    second: box_05P
+  - first:
+      213: 21300406
+    second: box_06P
+  - first:
+      213: 21300408
+    second: box_07P
+  - first:
+      213: 21300410
+    second: Window_01
+  - first:
+      213: 21300412
+    second: Window_02
+  - first:
+      213: 21300414
+    second: colour_DarkGrey
+  - first:
+      213: 21300416
+    second: colour_LightGrey
+  - first:
+      213: 21300418
+    second: colour_White
+  - first:
+      213: 21300420
+    second: colour_Blue
+  - first:
+      213: 21300422
+    second: colour_Red
+  - first:
+      213: 21300424
+    second: colour_Green
+  - first:
+      213: 21300426
+    second: icon_pause1
+  - first:
+      213: 21300428
+    second: icon_afirmation1
+  - first:
+      213: 21300430
+    second: icon_afirmation2
+  - first:
+      213: 21300432
+    second: icon_trophy1
+  - first:
+      213: 21300434
+    second: icon_pause3
+  - first:
+      213: 21300436
+    second: icon_afirmation3
+  - first:
+      213: 21300438
+    second: icon_menu3
+  - first:
+      213: 21300440
+    second: box_07C
+  - first:
+      213: 21300442
+    second: box_07G
+  - first:
+      213: 6711528582165059650
+    second: Ui Pack 3 Pixel_0
+  - first:
+      213: 5723267693315435169
+    second: Ui Pack 3 Pixel_1
+  - first:
+      213: -8200792492226959433
+    second: Ui Pack 3 Pixel_2
+  - first:
+      213: 709679092992642322
+    second: Ui Pack 3 Pixel_3
+  - first:
+      213: -4395726370391199708
+    second: Ui Pack 3 Pixel_4
+  - first:
+      213: -8838563502171676758
+    second: Ui Pack 3 Pixel_5
+  - first:
+      213: -2524027012502742378
+    second: Ui Pack 3 Pixel_6
+  - first:
+      213: 2463091861989553217
+    second: Ui Pack 3 Pixel_7
+  - first:
+      213: -4675469529636616784
+    second: Ui Pack 3 Pixel_8
+  - first:
+      213: 8517259091904289359
+    second: Ui Pack 3 Pixel_9
+  - first:
+      213: 9111524889027672428
+    second: Ui Pack 3 Pixel_10
+  - first:
+      213: -201557152953279727
+    second: Ui Pack 3 Pixel_11
+  - first:
+      213: 6027148610947130059
+    second: Ui Pack 3 Pixel_12
+  - first:
+      213: -5789682368049837905
+    second: Ui Pack 3 Pixel_13
+  - first:
+      213: -8969519178124246070
+    second: Ui Pack 3 Pixel_14
+  - first:
+      213: -6207996860808740852
+    second: Ui Pack 3 Pixel_15
+  - first:
+      213: -4660635776223470481
+    second: Ui Pack 3 Pixel_16
+  - first:
+      213: -7557891945654168602
+    second: Ui Pack 3 Pixel_17
+  - first:
+      213: 7314271747526726601
+    second: Ui Pack 3 Pixel_18
+  - first:
+      213: 6153124876079629228
+    second: Ui Pack 3 Pixel_19
+  - first:
+      213: 4351121431322092184
+    second: Ui Pack 3 Pixel_20
+  - first:
+      213: -9116513950408806121
+    second: Ui Pack 3 Pixel_21
+  - first:
+      213: 4683635616923249462
+    second: Ui Pack 3 Pixel_22
+  - first:
+      213: 5103826838869812273
+    second: Ui Pack 3 Pixel_23
+  - first:
+      213: 8387824502641844681
+    second: Ui Pack 3 Pixel_24
+  - first:
+      213: 7678139298158899871
+    second: Ui Pack 3 Pixel_25
+  - first:
+      213: -1773319046691118653
+    second: Ui Pack 3 Pixel_26
+  - first:
+      213: -6926446581513537168
+    second: Ui Pack 3 Pixel_27
+  - first:
+      213: 1079880642131095133
+    second: Ui Pack 3 Pixel_28
+  - first:
+      213: -5492255100383761183
+    second: Ui Pack 3 Pixel_29
+  - first:
+      213: 7578476031625705979
+    second: Ui Pack 3 Pixel_30
+  - first:
+      213: -8587937509187338812
+    second: Ui Pack 3 Pixel_31
+  - first:
+      213: 7770073059019349698
+    second: Ui Pack 3 Pixel_32
+  - first:
+      213: -7019031538097092473
+    second: Ui Pack 3 Pixel_33
+  - first:
+      213: -8839863443712691943
+    second: Ui Pack 3 Pixel_34
+  - first:
+      213: -5857625741988952329
+    second: Ui Pack 3 Pixel_35
+  - first:
+      213: -4640613781694968081
+    second: Ui Pack 3 Pixel_36
+  - first:
+      213: -7666580850378448377
+    second: Ui Pack 3 Pixel_37
+  - first:
+      213: -4430692856312837802
+    second: Ui Pack 3 Pixel_38
+  - first:
+      213: -8304412909226937672
+    second: Ui Pack 3 Pixel_39
+  - first:
+      213: 7374671309634377179
+    second: Ui Pack 3 Pixel_40
+  - first:
+      213: 6347167086889365860
+    second: Ui Pack 3 Pixel_41
+  - first:
+      213: 4736820781944197119
+    second: Ui Pack 3 Pixel_42
+  - first:
+      213: -4573228211682179308
+    second: Ui Pack 3 Pixel_43
+  - first:
+      213: 7439592593452023577
+    second: Ui Pack 3 Pixel_44
+  - first:
+      213: -1553281940036407110
+    second: Ui Pack 3 Pixel_45
+  - first:
+      213: 9194365946389640658
+    second: Ui Pack 3 Pixel_46
+  - first:
+      213: 2784610363235973876
+    second: Ui Pack 3 Pixel_47
+  - first:
+      213: -7143228157690368813
+    second: Ui Pack 3 Pixel_48
+  - first:
+      213: -7028889658103409757
+    second: Ui Pack 3 Pixel_49
+  - first:
+      213: -536415547397193417
+    second: Ui Pack 3 Pixel_50
+  - first:
+      213: 8131840794494734461
+    second: Ui Pack 3 Pixel_51
+  - first:
+      213: -5888311325297673537
+    second: Ui Pack 3 Pixel_52
+  - first:
+      213: 7307892429078514795
+    second: Ui Pack 3 Pixel_53
+  - first:
+      213: 654540476546445290
+    second: Ui Pack 3 Pixel_54
+  - first:
+      213: 4551971724535110055
+    second: Ui Pack 3 Pixel_55
+  - first:
+      213: 1327198591877128816
+    second: Ui Pack 3 Pixel_56
+  - first:
+      213: 1304171343131592045
+    second: Ui Pack 3 Pixel_57
+  - first:
+      213: -272086890705152484
+    second: Ui Pack 3 Pixel_58
+  - first:
+      213: 9080732856343203287
+    second: Ui Pack 3 Pixel_59
+  - first:
+      213: -2717757023292465172
+    second: Ui Pack 3 Pixel_60
+  - first:
+      213: 3116490736320817764
+    second: Ui Pack 3 Pixel_61
+  - first:
+      213: 1331158204224501005
+    second: Ui Pack 3 Pixel_62
+  - first:
+      213: 3249452142352804091
+    second: Ui Pack 3 Pixel_63
+  - first:
+      213: -7324955198395806220
+    second: Ui Pack 3 Pixel_64
+  - first:
+      213: 8458285337621829136
+    second: Ui Pack 3 Pixel_65
+  - first:
+      213: -3759507453983456858
+    second: Ui Pack 3 Pixel_66
+  - first:
+      213: -1327225307171954697
+    second: Ui Pack 3 Pixel_67
+  - first:
+      213: 4904120738630883512
+    second: Ui Pack 3 Pixel_68
+  - first:
+      213: -166749800214315224
+    second: Ui Pack 3 Pixel_69
+  - first:
+      213: 4709619228718443982
+    second: Ui Pack 3 Pixel_70
+  - first:
+      213: -3779033296912051328
+    second: Ui Pack 3 Pixel_71
+  - first:
+      213: 5433436606497494210
+    second: Ui Pack 3 Pixel_72
+  - first:
+      213: -3075450816723434344
+    second: Ui Pack 3 Pixel_73
+  - first:
+      213: 5100493257788368535
+    second: Ui Pack 3 Pixel_74
+  - first:
+      213: 3105863419034196620
+    second: Ui Pack 3 Pixel_75
+  - first:
+      213: -6690846626999807243
+    second: Ui Pack 3 Pixel_76
+  - first:
+      213: -3295169509518933036
+    second: Ui Pack 3 Pixel_77
+  - first:
+      213: 8381247860977235914
+    second: Ui Pack 3 Pixel_78
+  - first:
+      213: -5084021495036383341
+    second: Ui Pack 3 Pixel_79
+  - first:
+      213: -6098118192041155894
+    second: Ui Pack 3 Pixel_80
+  - first:
+      213: 7313956136636848384
+    second: Ui Pack 3 Pixel_81
+  - first:
+      213: 7145183118073250987
+    second: Ui Pack 3 Pixel_82
+  - first:
+      213: -7017436349966961899
+    second: Ui Pack 3 Pixel_83
+  - first:
+      213: 3570114636270961302
+    second: Ui Pack 3 Pixel_84
+  - first:
+      213: 4375507896703502662
+    second: Ui Pack 3 Pixel_85
+  - first:
+      213: 8073913666887747740
+    second: Ui Pack 3 Pixel_86
+  - first:
+      213: -7181863851091081911
+    second: Ui Pack 3 Pixel_87
+  - first:
+      213: 8935098660712747184
+    second: Ui Pack 3 Pixel_88
+  - first:
+      213: -3748180514574472486
+    second: Ui Pack 3 Pixel_89
+  - first:
+      213: 8827856989009464657
+    second: Ui Pack 3 Pixel_90
+  - first:
+      213: -7268652934594245936
+    second: Ui Pack 3 Pixel_91
+  - first:
+      213: -523903177468729017
+    second: Ui Pack 3 Pixel_92
+  - first:
+      213: 4375863600424130440
+    second: Ui Pack 3 Pixel_93
+  - first:
+      213: -5627882342398908427
+    second: Ui Pack 3 Pixel_94
+  - first:
+      213: 2990661781828370329
+    second: Ui Pack 3 Pixel_95
+  - first:
+      213: 3482024406204523198
+    second: Ui Pack 3 Pixel_96
+  - first:
+      213: -997808472995830305
+    second: Ui Pack 3 Pixel_97
+  - first:
+      213: 6994070250970848883
+    second: Ui Pack 3 Pixel_98
+  - first:
+      213: 3194200828967645174
+    second: Ui Pack 3 Pixel_99
+  - first:
+      213: 775997836749204172
+    second: Ui Pack 3 Pixel_100
+  - first:
+      213: 2629825836777937684
+    second: Ui Pack 3 Pixel_101
+  - first:
+      213: -1327115977998448883
+    second: Ui Pack 3 Pixel_102
+  - first:
+      213: 1442745142553378143
+    second: Ui Pack 3 Pixel_103
+  - first:
+      213: 3782476237958586391
+    second: Ui Pack 3 Pixel_104
+  - first:
+      213: 5344526526778914208
+    second: Ui Pack 3 Pixel_105
+  - first:
+      213: -2536683007160692704
+    second: Ui Pack 3 Pixel_106
+  - first:
+      213: 3178462159853408185
+    second: Ui Pack 3 Pixel_107
+  - first:
+      213: -4096401871938860011
+    second: Ui Pack 3 Pixel_108
+  - first:
+      213: -8179434635518854702
+    second: Ui Pack 3 Pixel_109
+  - first:
+      213: -1562930108095562077
+    second: Ui Pack 3 Pixel_110
+  - first:
+      213: 1821242754066413441
+    second: Ui Pack 3 Pixel_111
+  - first:
+      213: -5827200639155580639
+    second: Ui Pack 3 Pixel_112
+  - first:
+      213: -802804245435122836
+    second: Ui Pack 3 Pixel_113
+  - first:
+      213: 7660228043365221229
+    second: Ui Pack 3 Pixel_114
+  - first:
+      213: 647971281752557711
+    second: Ui Pack 3 Pixel_115
+  - first:
+      213: -6108276193800448548
+    second: Ui Pack 3 Pixel_116
+  - first:
+      213: 281461183566239233
+    second: Ui Pack 3 Pixel_117
+  - first:
+      213: -7501788056769171172
+    second: Ui Pack 3 Pixel_118
+  - first:
+      213: -85240696201863543
+    second: Ui Pack 3 Pixel_119
+  - first:
+      213: -2123012131859982295
+    second: Ui Pack 3 Pixel_120
+  - first:
+      213: 4623217704501634005
+    second: Ui Pack 3 Pixel_121
+  - first:
+      213: 1032685262722455865
+    second: Ui Pack 3 Pixel_122
+  - first:
+      213: 4859757337778236352
+    second: Ui Pack 3 Pixel_123
+  - first:
+      213: -3998890467920745706
+    second: Ui Pack 3 Pixel_124
+  - first:
+      213: -1768254144633351611
+    second: Ui Pack 3 Pixel_125
+  - first:
+      213: -353889218673622152
+    second: Ui Pack 3 Pixel_126
+  - first:
+      213: 7993894828042114795
+    second: Ui Pack 3 Pixel_127
+  - first:
+      213: 2902612531512738610
+    second: Ui Pack 3 Pixel_128
+  - first:
+      213: 7653734464901579981
+    second: Ui Pack 3 Pixel_129
+  - first:
+      213: -97768872321793863
+    second: Ui Pack 3 Pixel_130
+  - first:
+      213: 4118285017592212104
+    second: Ui Pack 3 Pixel_131
+  - first:
+      213: -3563443509038105909
+    second: Ui Pack 3 Pixel_132
+  - first:
+      213: 2306037728617621103
+    second: Ui Pack 3 Pixel_133
+  - first:
+      213: 8725824801372513200
+    second: Ui Pack 3 Pixel_134
+  - first:
+      213: 6414389661796074436
+    second: Ui Pack 3 Pixel_135
+  - first:
+      213: -2528405844716936
+    second: Ui Pack 3 Pixel_136
+  - first:
+      213: -7704741402788664530
+    second: Ui Pack 3 Pixel_137
+  - first:
+      213: -2762227239552061730
+    second: Ui Pack 3 Pixel_138
+  - first:
+      213: 298663671301466804
+    second: Ui Pack 3 Pixel_139
+  - first:
+      213: -8172412534731685948
+    second: Ui Pack 3 Pixel_140
+  - first:
+      213: 7263630757368395824
+    second: Ui Pack 3 Pixel_141
+  - first:
+      213: 794228033798903806
+    second: Ui Pack 3 Pixel_142
+  - first:
+      213: -5972480234782189314
+    second: Ui Pack 3 Pixel_143
+  - first:
+      213: -5802957215399927228
+    second: Ui Pack 3 Pixel_144
+  - first:
+      213: 90747407247887884
+    second: Ui Pack 3 Pixel_145
+  - first:
+      213: -8286400801156787639
+    second: Ui Pack 3 Pixel_146
+  - first:
+      213: -6470413254200150451
+    second: Ui Pack 3 Pixel_147
+  - first:
+      213: 3179126153489212838
+    second: Ui Pack 3 Pixel_148
+  - first:
+      213: -3931189078394206293
+    second: Ui Pack 3 Pixel_149
+  - first:
+      213: 1697045504826493091
+    second: Ui Pack 3 Pixel_150
+  - first:
+      213: -3504614142691692339
+    second: Ui Pack 3 Pixel_151
+  - first:
+      213: -8356401192735306023
+    second: Ui Pack 3 Pixel_152
+  - first:
+      213: 7765658702490274080
+    second: Ui Pack 3 Pixel_153
+  - first:
+      213: 3640996309081132821
+    second: Ui Pack 3 Pixel_154
+  - first:
+      213: 752777854466719697
+    second: Ui Pack 3 Pixel_155
+  - first:
+      213: -4033259127743416003
+    second: Ui Pack 3 Pixel_156
+  - first:
+      213: -8092614768857751219
+    second: Ui Pack 3 Pixel_157
+  - first:
+      213: 7766232495379346765
+    second: Ui Pack 3 Pixel_158
+  - first:
+      213: 3619697865426238144
+    second: Ui Pack 3 Pixel_159
+  - first:
+      213: 8576807789236904267
+    second: Ui Pack 3 Pixel_160
+  - first:
+      213: 2421246145005531731
+    second: Ui Pack 3 Pixel_161
+  - first:
+      213: 4312829855491636505
+    second: Ui Pack 3 Pixel_162
+  - first:
+      213: 87979479584993992
+    second: Ui Pack 3 Pixel_163
+  - first:
+      213: 5560254523639497816
+    second: Ui Pack 3 Pixel_164
+  - first:
+      213: -3140307854411688936
+    second: Ui Pack 3 Pixel_165
+  - first:
+      213: 2866430944145790198
+    second: Ui Pack 3 Pixel_166
+  - first:
+      213: 7016179984443353524
+    second: Ui Pack 3 Pixel_167
+  - first:
+      213: 4189203986256224972
+    second: Ui Pack 3 Pixel_168
+  - first:
+      213: 8369588363205562436
+    second: Ui Pack 3 Pixel_169
+  - first:
+      213: -1264586561790346028
+    second: Ui Pack 3 Pixel_170
+  - first:
+      213: -2277625052223425878
+    second: Ui Pack 3 Pixel_171
+  - first:
+      213: -9088413835990621976
+    second: Ui Pack 3 Pixel_172
+  - first:
+      213: 569059418780661544
+    second: Ui Pack 3 Pixel_173
+  - first:
+      213: 5653780434976538763
+    second: Ui Pack 3 Pixel_174
+  - first:
+      213: -4493738414425231464
+    second: Ui Pack 3 Pixel_175
+  - first:
+      213: 6467790515471469713
+    second: Ui Pack 3 Pixel_176
+  - first:
+      213: 2141447243513844329
+    second: Ui Pack 3 Pixel_177
+  - first:
+      213: 7670650203424255849
+    second: Ui Pack 3 Pixel_178
+  - first:
+      213: 4814320043454133972
+    second: Ui Pack 3 Pixel_179
+  - first:
+      213: -1510361724143125932
+    second: Ui Pack 3 Pixel_180
+  - first:
+      213: -4481249425474100404
+    second: Ui Pack 3 Pixel_181
+  - first:
+      213: -7087600376745058208
+    second: Ui Pack 3 Pixel_182
+  - first:
+      213: 7351095167085811872
+    second: Ui Pack 3 Pixel_183
+  - first:
+      213: -7563717217211951893
+    second: Ui Pack 3 Pixel_184
+  - first:
+      213: -6979107618476076804
+    second: Ui Pack 3 Pixel_185
+  - first:
+      213: 2342499477872381484
+    second: Ui Pack 3 Pixel_186
+  - first:
+      213: -7112145188572909638
+    second: Ui Pack 3 Pixel_187
+  - first:
+      213: -5866332504437681847
+    second: Ui Pack 3 Pixel_188
+  - first:
+      213: -2856006673621740810
+    second: Ui Pack 3 Pixel_189
+  - first:
+      213: -6048218229873250575
+    second: Ui Pack 3 Pixel_190
+  - first:
+      213: 4710735881027181311
+    second: Ui Pack 3 Pixel_191
+  - first:
+      213: 204548142804599139
+    second: Ui Pack 3 Pixel_192
+  - first:
+      213: -5650483712058753343
+    second: Ui Pack 3 Pixel_193
+  - first:
+      213: 870817067122207328
+    second: Ui Pack 3 Pixel_194
+  - first:
+      213: 8173303830997321182
+    second: Ui Pack 3 Pixel_195
+  - first:
+      213: 5899112888562622996
+    second: Ui Pack 3 Pixel_196
+  - first:
+      213: -6664292350912803139
+    second: Ui Pack 3 Pixel_197
+  - first:
+      213: -5871810339408992949
+    second: Ui Pack 3 Pixel_198
+  - first:
+      213: 4049621952753839588
+    second: Ui Pack 3 Pixel_199
+  - first:
+      213: -5275901749990086200
+    second: Ui Pack 3 Pixel_200
+  - first:
+      213: -5556908842977884661
+    second: Ui Pack 3 Pixel_201
+  - first:
+      213: 6831525456806869620
+    second: Ui Pack 3 Pixel_202
+  - first:
+      213: -1880394267774739003
+    second: Ui Pack 3 Pixel_203
+  - first:
+      213: 6456411323206200525
+    second: Ui Pack 3 Pixel_204
+  - first:
+      213: 181201102462523031
+    second: Ui Pack 3 Pixel_205
+  - first:
+      213: 5728976752748433229
+    second: Ui Pack 3 Pixel_206
+  - first:
+      213: -383501638148129213
+    second: Ui Pack 3 Pixel_207
+  - first:
+      213: -1904300515917127779
+    second: Ui Pack 3 Pixel_208
+  - first:
+      213: -5499539949657690219
+    second: Ui Pack 3 Pixel_209
+  - first:
+      213: -115908418660703266
+    second: Ui Pack 3 Pixel_210
+  - first:
+      213: -7135715899963048873
+    second: Ui Pack 3 Pixel_211
+  - first:
+      213: 8702691774721883546
+    second: Ui Pack 3 Pixel_212
+  - first:
+      213: -1987493217895929242
+    second: Ui Pack 3 Pixel_213
+  - first:
+      213: -9206636029953441884
+    second: Ui Pack 3 Pixel_214
+  - first:
+      213: 7622548445766041144
+    second: Ui Pack 3 Pixel_215
+  - first:
+      213: 4883991714271770949
+    second: Ui Pack 3 Pixel_216
+  - first:
+      213: -1093388041982159760
+    second: Ui Pack 3 Pixel_217
+  - first:
+      213: 2170958085071464773
+    second: Ui Pack 3 Pixel_218
+  - first:
+      213: -8591404930984751661
+    second: Ui Pack 3 Pixel_219
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24854dfafa3242d50800000000000000
+      internalID: 6711528582165059650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2986d4a12d6f40800000000000000
+      internalID: 5723267693315435169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72f109daee03e80800000000000000
+      internalID: -8200792492226959433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0952006949d900800000000000000
+      internalID: 709679092992642322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f30bd72e3ff2c0800000000000000
+      internalID: -4395726370391199708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1350d25d175580800000000000000
+      internalID: -8838563502171676758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 486
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a98441ecad8fcd0800000000000000
+      internalID: -2524027012502742378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fa0b9ff8ae2220800000000000000
+      internalID: 2463091861989553217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c8d70c356d1fb0800000000000000
+      internalID: -4675469529636616784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adbe88402633670800000000000000
+      internalID: 8517259091904289359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 496
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69ff949c93a27e70800000000000000
+      internalID: 9111524889027672428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 497
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd74856dce33df0800000000000000
+      internalID: -201557152953279727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 497
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22efb7abbb4a350800000000000000
+      internalID: 6027148610947130059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 496
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80c02bf8ae6afa0800000000000000
+      internalID: -5789682368049837905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 483
+        width: 124
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c9dd74ddd58380800000000000000
+      internalID: -8969519178124246070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0041c81fb3c8d9a0800000000000000
+      internalID: -6207996860808740852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c19b26478125fb0800000000000000
+      internalID: -4660635776223470481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e35f70a159fc1790800000000000000
+      internalID: -7557891945654168602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c39106d663818560800000000000000
+      internalID: 7314271747526726601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38851697a446550800000000000000
+      internalID: 6153124876079629228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892ea8873e9426c30800000000000000
+      internalID: 4351121431322092184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117dfb0dd2ab7180800000000000000
+      internalID: -9116513950408806121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be31457cd9ff040800000000000000
+      internalID: 4683635616923249462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a0fdf77f64d640800000000000000
+      internalID: 5103826838869812273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e84ec1f9876470800000000000000
+      internalID: 8387824502641844681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f927abad20b3e8a60800000000000000
+      internalID: 7678139298158899871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 467
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1aa84f8b7e367e0800000000000000
+      internalID: -1773319046691118653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 482
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ba21388150ef90800000000000000
+      internalID: -6926446581513537168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e6b0af8b18cfe00800000000000000
+      internalID: 1079880642131095133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 484
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6ccdd51797c3b0800000000000000
+      internalID: -5492255100383761183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 471
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9bcdb5cc72c2960800000000000000
+      internalID: 7578476031625705979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb2a3165481d880800000000000000
+      internalID: -8587937509187338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5ea19748d4db60800000000000000
+      internalID: 7770073059019349698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 467
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78885782104679e90800000000000000
+      internalID: -7019031538097092473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 467
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113b86980f725580800000000000000
+      internalID: -8839863443712691943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_35
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 467
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f680953c6885bea0800000000000000
+      internalID: -5857625741988952329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 457
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0a424a5a399fb0800000000000000
+      internalID: -4640613781694968081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702616bf555da9590800000000000000
+      internalID: -7666580850378448377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659cc9e62540382c0800000000000000
+      internalID: -4430692856312837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23c5d257cc0cc80800000000000000
+      internalID: -8304412909226937672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59502cb78185660800000000000000
+      internalID: 7374671309634377179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461771836daa51850800000000000000
+      internalID: 6347167086889365860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffc87887619cb140800000000000000
+      internalID: 4736820781944197119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 436
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41783e5eb21a880c0800000000000000
+      internalID: -4573228211682179308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_44
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 451
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb55e0c0ebe3760800000000000000
+      internalID: 7439592593452023577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 452
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b9102e42a17ae0800000000000000
+      internalID: -1553281940036407110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 451
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5b0894d13f89f70800000000000000
+      internalID: 9194365946389640658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 450
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa3d823f5ce4a620800000000000000
+      internalID: 2784610363235973876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 451
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2c4746d72edc90800000000000000
+      internalID: -7143228157690368813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 450
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3545bb81e547e90800000000000000
+      internalID: -7028889658103409757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 429
+        width: 124
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c465d6e44e88f0800000000000000
+      internalID: -536415547397193417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 437
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7093e54e1a1ad070800000000000000
+      internalID: 8131840794494734461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 438
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf8b81c04884ea0800000000000000
+      internalID: -5888311325297673537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 438
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccdf30279da6560800000000000000
+      internalID: 7307892429078514795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 437
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6aa37815651900800000000000000
+      internalID: 654540476546445290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a999848a2adb2f30800000000000000
+      internalID: 4551971724535110055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722c3766182b6210800000000000000
+      internalID: 1327198591877128816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654a914de8591210800000000000000
+      internalID: 1304171343131592045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_58
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c169a7b1a6a593cf0800000000000000
+      internalID: -272086890705152484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0e8acb6e350e70800000000000000
+      internalID: 9080732856343203287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef54d8f266984ad0800000000000000
+      internalID: -2717757023292465172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 409
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aa23410dfff3b20800000000000000
+      internalID: 3116490736320817764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f5ae7559397210800000000000000
+      internalID: 1331158204224501005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf82293d18f581d20800000000000000
+      internalID: 3249452142352804091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd87fb6e08885a90800000000000000
+      internalID: -7324955198395806220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_65
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 420
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01618dd53bdd16570800000000000000
+      internalID: 8458285337621829136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 421
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a102eaa3eb83dbc0800000000000000
+      internalID: -3759507453983456858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_67
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 421
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5b157d9fb49de0800000000000000
+      internalID: -1327225307171954697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 420
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b858b124dfee0440800000000000000
+      internalID: 4904120738630883512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 403
+        width: 130
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fbbdfa0f59fadf0800000000000000
+      internalID: -166749800214315224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdac136cbdeb5140800000000000000
+      internalID: 4709619228718443982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831f271d3d2e8bc0800000000000000
+      internalID: -3779033296912051328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c413e75ec1776b40800000000000000
+      internalID: 5433436606497494210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_73
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c301d6cdc155d0800000000000000
+      internalID: -3075450816723434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79620c9289798c640800000000000000
+      internalID: 5100493257788368535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad964f25e3a1b20800000000000000
+      internalID: 3105863419034196620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 384
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25e0f31765523a0800000000000000
+      internalID: -6690846626999807243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 405
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d30d662ac43542d0800000000000000
+      internalID: -3295169509518933036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 405
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7fc08168c205470800000000000000
+      internalID: 8381247860977235914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_79
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 405
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe7e5f26de179b0800000000000000
+      internalID: -5084021495036383341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_80
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 405
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22a0540d12f5ba0800000000000000
+      internalID: -6098118192041155894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_81
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 405
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091703fa54608560800000000000000
+      internalID: 7313956136636848384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 405
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4cfd7603ac82360800000000000000
+      internalID: 7145183118073250987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_83
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 405
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5133e46d1de0d9e90800000000000000
+      internalID: -7017436349966961899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 407
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928a5ea8589b8130800000000000000
+      internalID: 3570114636270961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_85
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 394
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649cde6ef3de8bc30800000000000000
+      internalID: 4375507896703502662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_86
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98040ed3bd4c0070800000000000000
+      internalID: 8073913666887747740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454f7ae0e4e45c90800000000000000
+      internalID: -7181863851091081911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 390
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b01ad844e8dffb70800000000000000
+      internalID: 8935098660712747184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 389
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6fb24ea9cbfbc0800000000000000
+      internalID: -3748180514574472486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 390
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dcbd5d829d28a70800000000000000
+      internalID: 8827856989009464657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 390
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac8edbaae802b90800000000000000
+      internalID: -7268652934594245936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749274af5d8bab8f0800000000000000
+      internalID: -523903177468729017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88797d0a2c03abc30800000000000000
+      internalID: 4375863600424130440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_94
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7ae9fc3deb5e1b0800000000000000
+      internalID: -5627882342398908427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f773d9b07f08920800000000000000
+      internalID: 2990661781828370329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2af07bfb2a25030800000000000000
+      internalID: 3482024406204523198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5653dfa721722f0800000000000000
+      internalID: -997808472995830305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 359
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9e3b46ddef0160800000000000000
+      internalID: 6994070250970848883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 373
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffefd7fab4145c20800000000000000
+      internalID: 3194200828967645174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_100
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 375
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca68edcbe5e4ca00800000000000000
+      internalID: 775997836749204172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 374
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b1b464aa40f7420800000000000000
+      internalID: 2629825836777937684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_102
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 373
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0748a3ac03259de0800000000000000
+      internalID: -1327115977998448883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_103
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 373
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d705b2019a50410800000000000000
+      internalID: 1442745142553378143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 373
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a0e6191e0e7430800000000000000
+      internalID: 3782476237958586391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_105
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 372
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53f414f829b2a40800000000000000
+      internalID: 5344526526778914208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_106
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 359
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020da62be34ebccd0800000000000000
+      internalID: -2536683007160692704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_107
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 360
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf45128e7a2c1c20800000000000000
+      internalID: 3178462159853408185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 360
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc6dd7338a627c0800000000000000
+      internalID: -4096401871938860011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_109
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 359
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d93f56198fcc7e80800000000000000
+      internalID: -8179434635518854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae7332f85b5f4ae0800000000000000
+      internalID: -1562930108095562077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_111
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f1eda2aa564910800000000000000
+      internalID: 1821242754066413441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121d33c74ef912fa0800000000000000
+      internalID: -5827200639155580639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bf9aecacddbd4f0800000000000000
+      internalID: -802804245435122836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63054fd1d89e4a60800000000000000
+      internalID: 7660228043365221229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f880489927e0ef800800000000000000
+      internalID: 647971281752557711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_116
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 334
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd59c8e2a2b0b3ba0800000000000000
+      internalID: -6108276193800448548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_117
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d6888473f7e300800000000000000
+      internalID: 281461183566239233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_118
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c117100328b44e790800000000000000
+      internalID: -7501788056769171172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1b76d90a21def0800000000000000
+      internalID: -85240696201863543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_120
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 343
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92814aad6bb8982e0800000000000000
+      internalID: -2123012131859982295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_121
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3ed14e108f82040800000000000000
+      internalID: 4623217704501634005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_122
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 344
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9395a5966c5d45e00800000000000000
+      internalID: 1032685262722455865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_123
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 343
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbaed4fc83517340800000000000000
+      internalID: 4859757337778236352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b63e37e461188c0800000000000000
+      internalID: -3998890467920745706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542548c5936e577e0800000000000000
+      internalID: -1768254144633351611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_126
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8734e1f61abb61bf0800000000000000
+      internalID: -353889218673622152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_127
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6584d1ef400fe60800000000000000
+      internalID: 7993894828042114795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_128
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330a6df7b6284820800000000000000
+      internalID: 2902612531512738610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_129
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48f91d1f6873a60800000000000000
+      internalID: 7653734464901579981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_130
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b04b278ab7a4aef0800000000000000
+      internalID: -97768872321793863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_131
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa5656766172930800000000000000
+      internalID: 4118285017592212104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_132
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcabc9a220b1c8ec0800000000000000
+      internalID: -3563443509038105909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_133
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e6e4a811b00020800000000000000
+      internalID: 2306037728617621103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_134
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32a1aec6b581970800000000000000
+      internalID: 8725824801372513200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_135
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 314
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30b4a996d740950800000000000000
+      internalID: 6414389661796074436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_136
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 329
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87217c3ad6407fff0800000000000000
+      internalID: -2528405844716936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 329
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b69800482431590800000000000000
+      internalID: -7704741402788664530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_138
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 331
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6795e5f89aa9d0800000000000000
+      internalID: -2762227239552061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_139
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 318
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baec33d601152400800000000000000
+      internalID: 298663671301466804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 314
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf3e555912c59e80800000000000000
+      internalID: -8172412534731685948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_141
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 314
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387b8080b99dc460800000000000000
+      internalID: 7263630757368395824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_142
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 314
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79d31503aa50b00800000000000000
+      internalID: 794228033798903806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_143
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 314
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef814c9bedc7d1da0800000000000000
+      internalID: -5972480234782189314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_144
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 314
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4422c417821c77fa0800000000000000
+      internalID: -5802957215399927228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_145
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4c4d3946624100800000000000000
+      internalID: 90747407247887884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_146
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429984ef5ac00d80800000000000000
+      internalID: -8286400801156787639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_147
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46bb615d697436a0800000000000000
+      internalID: -6470413254200150451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e0e294668e1c20800000000000000
+      internalID: 3179126153489212838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_149
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba70b6d8c5c9179c0800000000000000
+      internalID: -3931189078394206293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a84bd235ed1d8710800000000000000
+      internalID: 1697045504826493091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 282
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc03d06610c1d5fc0800000000000000
+      internalID: -3504614142691692339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 298
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8c5aa369180c80800000000000000
+      internalID: -8356401192735306023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_153
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 299
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298ad8127925cb60800000000000000
+      internalID: 7765658702490274080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_154
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 298
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0a4f2ada678230800000000000000
+      internalID: 3640996309081132821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_155
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 297
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff4426877627a00800000000000000
+      internalID: 752777854466719697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 298
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3970c3413cf608c0800000000000000
+      internalID: -4033259127743416003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_157
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 297
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4167268eb141bf80800000000000000
+      internalID: -8092614768857751219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_158
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 284
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457e2aae4337cb60800000000000000
+      internalID: 7766232495379346765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_159
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 285
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca78f6d700cb3230800000000000000
+      internalID: 3619697865426238144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_160
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 285
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e4401e31f60770800000000000000
+      internalID: 8576807789236904267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_161
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 284
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b6d26a8ef99120800000000000000
+      internalID: 2421246145005531731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d374937ef3adb30800000000000000
+      internalID: 4312829855491636505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_163
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ff2cded0983100800000000000000
+      internalID: 87979479584993992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_164
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8548a4e970ef92d40800000000000000
+      internalID: 5560254523639497816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_165
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141c6cf4a26b64d0800000000000000
+      internalID: -3140307854411688936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_166
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45ff6b1cb97c720800000000000000
+      internalID: 2866430944145790198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_167
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a3f4c58a7e5160800000000000000
+      internalID: 7016179984443353524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_168
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e37484da032a30800000000000000
+      internalID: 4189203986256224972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405c19b540c62470800000000000000
+      internalID: 8369588363205562436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_170
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf0ccd839437ee0800000000000000
+      internalID: -1264586561790346028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_171
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa231b615104460e0800000000000000
+      internalID: -2277625052223425878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_172
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0a806c4c77fd180800000000000000
+      internalID: -9088413835990621976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f280c684b5e700800000000000000
+      internalID: 569059418780661544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_174
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8084d0c953467e40800000000000000
+      internalID: 5653780434976538763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_175
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 232
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f28ae88b803a1c0800000000000000
+      internalID: -4493738414425231464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c415cb43532c950800000000000000
+      internalID: 6467790515471469713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_177
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d1ee0ce2f7bd10800000000000000
+      internalID: 2141447243513844329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_178
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f616b18bf937a60800000000000000
+      internalID: 7670650203424255849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_179
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d670297296efc240800000000000000
+      internalID: 4814320043454133972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_180
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3a1e930e1a0be0800000000000000
+      internalID: -1510361724143125932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_181
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4361b4e3676fc1c0800000000000000
+      internalID: -4481249425474100404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_182
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 205
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060af225209c3ad90800000000000000
+      internalID: -7087600376745058208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_183
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89d305b16540660800000000000000
+      internalID: 7351095167085811872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_184
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45396e347480790800000000000000
+      internalID: -7563717217211951893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_185
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d28f099a352f90800000000000000
+      internalID: -6979107618476076804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_186
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e0f113dda328020800000000000000
+      internalID: 2342499477872381484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_187
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfab1cf1a59c4d90800000000000000
+      internalID: -7112145188572909638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_188
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411aaa1ba9969ea0800000000000000
+      internalID: -5866332504437681847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_189
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f291a6ef0d6d58d0800000000000000
+      internalID: -2856006673621740810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_190
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feec549099601ca0800000000000000
+      internalID: -6048218229873250575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_191
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadf434355ef5140800000000000000
+      internalID: 4710735881027181311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_192
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361855fb373b6d200800000000000000
+      internalID: 204548142804599139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_193
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7b9d50037591b0800000000000000
+      internalID: -5650483712058753343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_194
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aaa2e3283c51c00800000000000000
+      internalID: 870817067122207328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_195
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54fefb7886d6170800000000000000
+      internalID: 8173303830997321182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_196
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41224b4daebddd150800000000000000
+      internalID: 5899112888562622996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4d707a6da383a0800000000000000
+      internalID: -6664292350912803139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_198
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45af034b93238ea0800000000000000
+      internalID: -5871810339408992949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_199
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2480d5b5233830800000000000000
+      internalID: 4049621952753839588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_200
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9aaf1bf4b38c6b0800000000000000
+      internalID: -5275901749990086200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06831d59d4e1e2b0800000000000000
+      internalID: -5556908842977884661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_202
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af20f35347ece50800000000000000
+      internalID: 6831525456806869620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_203
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1b9f406f77e5e0800000000000000
+      internalID: -1880394267774739003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce38314e7c99950800000000000000
+      internalID: 6456411323206200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_205
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79610315171c38200800000000000000
+      internalID: 181201102462523031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_206
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8a02d00a618f40800000000000000
+      internalID: 5728976752748433229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_207
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e766fba478daaf0800000000000000
+      internalID: -383501638148129213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_208
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f9a2b25c09295e0800000000000000
+      internalID: -1904300515917127779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_209
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f6598bd85bda3b0800000000000000
+      internalID: -5499539949657690219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_210
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3604748e5346ef0800000000000000
+      internalID: -115908418660703266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c78941238d8fc90800000000000000
+      internalID: -7135715899963048873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_212
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 76
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9df20e6f0c26c870800000000000000
+      internalID: 8702691774721883546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_213
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa0d1d2710b64e0800000000000000
+      internalID: -1987493217895929242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_214
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afff424f457b3080800000000000000
+      internalID: -9206636029953441884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_215
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3719ec6bb8c960800000000000000
+      internalID: 7622548445766041144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_216
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549be1f669c67c340800000000000000
+      internalID: 4883991714271770949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_217
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0745efb6e5183d0f0800000000000000
+      internalID: -1093388041982159760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_218
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54962fa40eac02e10800000000000000
+      internalID: 2170958085071464773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui Pack 3 Pixel_219
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 371
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4d170cb235c880800000000000000
+      internalID: -8591404930984751661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ae58eb57a933b9949ab1df0bd44d6f97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

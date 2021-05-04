@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fce4324-be64-468c-8ebd-5708a55354cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level-1/tempBehaviour2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacter/Buff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level-1/tempBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Save/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../rep3/ProjectMinions-Fall2020/Assets/UltimateCleanGUIPack/Demo/Scripts/Popup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC/ArrowManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/PlayerBullet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monsters/DmgText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/PlayerBomb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/SliderSoundOnly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound/CanvasSoundOnly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/DestoryAfterAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tutorial/AirWallTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Enemies/EnemySkull/EnemySkull.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PersistentScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Only4Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC/DialogueFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC/Merchant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/LevelDetails.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/LevelDetail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CaneraClamp_AllLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/FirstTimeChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/EnemyGoblin/EnemyGoblin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelTransitions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level-0/Additional_Teodoro_LV0.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/SuperMethod-Dialogue Box/BaroqueUIPanels/PanelDriver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MissionSys/MissionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/Testing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Monsters/DmgText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Loader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/EnemySorcerer/EnemyBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/PlayerBullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/PlayerBomb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacter/Skills/DestoryAfterAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC/Dialogue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MissionSys/MissionTracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MissionSys/IMission.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC/DialogueTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/EnemyDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tutorial/AirWallTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MissionSys/MissionListUpdater.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/CanvasSoundOnly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/SaveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SliderSoundOnly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/MusicManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Setting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/ExperimentalEssentials/Sensor_CatKnight_Wall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level-1/tempBehaviour2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level-1/tempBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacter/Teodoro.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerUnit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacter/Buff.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/Unit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Save/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemies/UnitAttackZone.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pDZm1GAV0ajK6Z4v3NVhuUN8mB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fce4324-be64-468c-8ebd-5708a55354cf" name="Default Changelist" comment="" />
+      <created>1614719779928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614719779928</updated>
+      <workItem from="1614719785822" duration="23520000" />
+      <workItem from="1615178317381" duration="21520000" />
+      <workItem from="1615540978614" duration="5304000" />
+      <workItem from="1615556193918" duration="2175000" />
+      <workItem from="1615603641369" duration="62184000" />
+      <workItem from="1615853755540" duration="30358000" />
+      <workItem from="1615938521729" duration="14669000" />
+      <workItem from="1617029810849" duration="17312000" />
+      <workItem from="1617990502189" duration="44271000" />
+      <workItem from="1618281650137" duration="3658000" />
+      <workItem from="1618827377773" duration="28063000" />
+      <workItem from="1619326975948" duration="39977000" />
+      <workItem from="1620111671400" duration="740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="272" key="RiderGenerateDialog" timestamp="1618183126909">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="695" y="272" key="RiderGenerateDialog/0.0.2048.1112/-3440.6.3440.1400@0.0.2048.1112" timestamp="1618183126909" />
+    <state x="-2400" y="169" width="2110" height="1154" key="dock-window-1" timestamp="1618215542247">
+      <screen x="-3440" y="6" width="3440" height="1400" />
+    </state>
+    <state x="135" y="82" width="1513" height="1025" key="dock-window-1/0.0.2048.1112/-3440.6.3440.1400@-3440.6.3440.1400" timestamp="1615013819617" />
+    <state x="-2400" y="169" width="2110" height="1154" key="dock-window-1/0.0.2048.1112/-3440.6.3440.1400@0.0.2048.1112" timestamp="1618215542247" />
+    <state x="-1890" y="236" width="1680" height="1155" key="dock-window-2" timestamp="1618184171645">
+      <screen x="-3440" y="6" width="3440" height="1400" />
+    </state>
+    <state x="-1890" y="236" width="1680" height="1155" key="dock-window-2/0.0.2048.1112/-3440.6.3440.1400@0.0.2048.1112" timestamp="1618184171645" />
+    <state x="660" y="263" key="run.anything.popup" timestamp="1618897309305">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="660" y="263" key="run.anything.popup/0.0.2048.1112/-3440.6.3440.1400@0.0.2048.1112" timestamp="1618897309305" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1619531012805">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-2286" y="312" width="1129" height="854" key="search.everywhere.popup/0.0.2048.1112/-3440.6.3440.1400@-3440.6.3440.1400" timestamp="1615880529300" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/-3440.6.3440.1400@0.0.2048.1112" timestamp="1619531012805" />
+  </component>
+</project>

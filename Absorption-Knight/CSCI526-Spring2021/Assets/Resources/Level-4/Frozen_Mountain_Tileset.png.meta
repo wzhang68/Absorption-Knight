@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: 45123a742c8766343b0b75e82c6cd3d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8901441163715671026
+    second: Frozen_Mountain_Tileset_0
+  - first:
+      213: -6407615445380121222
+    second: Frozen_Mountain_Tileset_1
+  - first:
+      213: -4387298289186211390
+    second: Frozen_Mountain_Tileset_2
+  - first:
+      213: -7306472828101093463
+    second: Frozen_Mountain_Tileset_3
+  - first:
+      213: 3709006159544846680
+    second: Frozen_Mountain_Tileset_4
+  - first:
+      213: 4194690152980810934
+    second: Frozen_Mountain_Tileset_5
+  - first:
+      213: -3274683151651751617
+    second: Frozen_Mountain_Tileset_6
+  - first:
+      213: -1595425400186471156
+    second: Frozen_Mountain_Tileset_7
+  - first:
+      213: -7757114621852601411
+    second: Frozen_Mountain_Tileset_8
+  - first:
+      213: -2884707324152763469
+    second: Frozen_Mountain_Tileset_9
+  - first:
+      213: 6215127554885961344
+    second: Frozen_Mountain_Tileset_10
+  - first:
+      213: -5174955324982593625
+    second: Frozen_Mountain_Tileset_11
+  - first:
+      213: -6890282099900473900
+    second: Frozen_Mountain_Tileset_12
+  - first:
+      213: -5757616634947159633
+    second: Frozen_Mountain_Tileset_13
+  - first:
+      213: 3226962383205224764
+    second: Frozen_Mountain_Tileset_14
+  - first:
+      213: 7695734618055102176
+    second: Frozen_Mountain_Tileset_15
+  - first:
+      213: -8209724520468337927
+    second: Frozen_Mountain_Tileset_16
+  - first:
+      213: -863491114676178213
+    second: Frozen_Mountain_Tileset_17
+  - first:
+      213: -8217471865727529057
+    second: Frozen_Mountain_Tileset_18
+  - first:
+      213: -7917696611565070860
+    second: Frozen_Mountain_Tileset_19
+  - first:
+      213: -7336154375922786161
+    second: Frozen_Mountain_Tileset_20
+  - first:
+      213: 1410367676019209280
+    second: Frozen_Mountain_Tileset_21
+  - first:
+      213: -5621641417210536689
+    second: Frozen_Mountain_Tileset_22
+  - first:
+      213: -2520215510369391116
+    second: Frozen_Mountain_Tileset_23
+  - first:
+      213: 2208719040260397821
+    second: Frozen_Mountain_Tileset_24
+  - first:
+      213: 8360489283594150217
+    second: Frozen_Mountain_Tileset_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c00b76c6ab77480800000000000000
+      internalID: -8901441163715671026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 70
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 7, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dbfc093b39317a0800000000000000
+      internalID: -6407615445380121222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9706d637f2d13c0800000000000000
+      internalID: -4387298289186211390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79df79ca13a9a90800000000000000
+      internalID: -7306472828101093463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4865548, y: 0.52184695}
+      border: {x: 0, y: 0, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85908617379097330800000000000000
+      internalID: 3709006159544846680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc004f3878863a30800000000000000
+      internalID: 4194690152980810934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3937d9060dfd82d0800000000000000
+      internalID: -3274683151651751617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dff3c2d09ebd9e0800000000000000
+      internalID: -1595425400186471156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bc72b951395490800000000000000
+      internalID: -7757114621852601411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 95
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb28e6f8f577f7d0800000000000000
+      internalID: -2884707324152763469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08648bef491904650800000000000000
+      internalID: 6215127554885961344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 29
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a775edcc8dde28b0800000000000000
+      internalID: -5174955324982593625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 31
+        width: 65
+        height: 49
+      alignment: 9
+      pivot: {x: 0.35018703, y: 0.56355566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1339bfecc060a0800000000000000
+      internalID: -6890282099900473900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 93
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa93819fc26d810b0800000000000000
+      internalID: -5757616634947159633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 62
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31de7ab03978cc20800000000000000
+      internalID: 3226962383205224764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec9d28cddbcca60800000000000000
+      internalID: 7695734618055102176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 109
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faabadab03311e80800000000000000
+      internalID: -8209724520468337927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2350bf7634404f0800000000000000
+      internalID: -863491114676178213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4b8b40eca5fd80800000000000000
+      internalID: -8217471865727529057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 28
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5995ca1e0be1290800000000000000
+      internalID: -7917696611565070860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 157
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e1b5b67eb03a90800000000000000
+      internalID: -7336154375922786161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04471dbcde1a29310800000000000000
+      internalID: 1410367676019209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dda807aeaebf1b0800000000000000
+      internalID: -5621641417210536689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 169
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.36891365, y: 0.53495485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fda0039855660dd0800000000000000
+      internalID: -2520215510369391116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 173
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadc5bc342f6ae10800000000000000
+      internalID: 2208719040260397821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frozen_Mountain_Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941e61925bc660470800000000000000
+      internalID: 8360489283594150217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

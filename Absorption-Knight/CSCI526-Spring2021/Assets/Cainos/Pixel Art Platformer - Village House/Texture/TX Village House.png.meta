@@ -1,0 +1,3854 @@
+fileFormatVersion: 2
+guid: aa6fa552817c22a4e844b81b8ead69d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TX Village House Beam X6
+  - first:
+      213: 21300002
+    second: TX Village House Pillar X3 C
+  - first:
+      213: 21300004
+    second: TX Village House Pillar Cross C
+  - first:
+      213: 21300006
+    second: TX Village House Pillar X3 B
+  - first:
+      213: 21300008
+    second: TX Village House Pillar X3 A
+  - first:
+      213: 21300010
+    second: TX Village House Pillar Cross B
+  - first:
+      213: 21300012
+    second: TX Village House Pillar Cross A
+  - first:
+      213: 21300014
+    second: TX Village House Door A
+  - first:
+      213: 21300016
+    second: TX Village House Door A Shadow
+  - first:
+      213: 21300018
+    second: TX Village House Window A
+  - first:
+      213: 21300020
+    second: TX Village House Struct Cross 3X3 A
+  - first:
+      213: 21300022
+    second: TX Village House Struct Diag Shadow A
+  - first:
+      213: 21300024
+    second: TX Village House Beam X6 A
+  - first:
+      213: 21300026
+    second: TX Village House Beam X6 B
+  - first:
+      213: 21300028
+    second: TX Village House Beam X6 C
+  - first:
+      213: 21300030
+    second: TX Village House Struct Hori A
+  - first:
+      213: 21300032
+    second: TX Village House Struct Hori B
+  - first:
+      213: 21300034
+    second: TX Village House Struct Hori C
+  - first:
+      213: 21300036
+    second: TX Village House Roof 6X2
+  - first:
+      213: 21300038
+    second: TX Village House Roof 6X2 Shadow
+  - first:
+      213: 21300040
+    second: TX Village House Rod Hori X2
+  - first:
+      213: 21300042
+    second: TX Village House Sign
+  - first:
+      213: 21300044
+    second: TX Village House Sign Hanger
+  - first:
+      213: 21300046
+    second: TX Village House Chain
+  - first:
+      213: 21300048
+    second: TX Village House Sign Icon Weapon
+  - first:
+      213: 21300050
+    second: TX Village House Sign Icon Bear
+  - first:
+      213: 21300052
+    second: TX Village House Sign Icon Blacksmith
+  - first:
+      213: 21300054
+    second: TX Village House Chimney A
+  - first:
+      213: 21300056
+    second: TX Village House Sign Icon Potion
+  - first:
+      213: 21300058
+    second: TX Village House Plank Floor
+  - first:
+      213: 21300060
+    second: TX Village House Fence A
+  - first:
+      213: 21300062
+    second: TX Village House Support 1X1 C
+  - first:
+      213: 21300064
+    second: TX Village House Struct Diag 3X3 A
+  - first:
+      213: 21300066
+    second: TX Village House Struct Diag 3X3 B
+  - first:
+      213: 21300068
+    second: TX Village House Shadow Diag
+  - first:
+      213: 21300070
+    second: TX Village House Base 9X1
+  - first:
+      213: 21300072
+    second: TX Village House Window B
+  - first:
+      213: 21300074
+    second: TX Village House Shadow Square
+  - first:
+      213: 21300076
+    second: TX Village House Roof Tile 6X2
+  - first:
+      213: 21300078
+    second: TX Village House Roof 4X2
+  - first:
+      213: 21300080
+    second: TX Village House Roof 4X2 Shadow
+  - first:
+      213: 21300082
+    second: TX Village House Outfall
+  - first:
+      213: 21300084
+    second: TX Village House Roof Window Side
+  - first:
+      213: 21300086
+    second: TX Village House Roof Window Side Shadow
+  - first:
+      213: 21300088
+    second: TX Village House Chimney B
+  - first:
+      213: 21300090
+    second: TX Village House Attic
+  - first:
+      213: 21300092
+    second: TX Village House Attic Roof Shadow
+  - first:
+      213: 21300094
+    second: TX Village House Attic Shadow
+  - first:
+      213: 21300096
+    second: TX Village House Window C
+  - first:
+      213: 21300098
+    second: TX Village House Wall Brick 4X3
+  - first:
+      213: 21300100
+    second: TX Village House Attic Side
+  - first:
+      213: 21300102
+    second: TX Village House Pillar Cross Round A
+  - first:
+      213: 21300104
+    second: TX Village House Pillar Cross Round B
+  - first:
+      213: 21300106
+    second: TX Village House Pillar Cross Round C
+  - first:
+      213: 21300108
+    second: TX Village House Door Frame Wood Side
+  - first:
+      213: 21300110
+    second: TX Village House Window D
+  - first:
+      213: 21300112
+    second: TX Village House Struct Diag 3X2 A
+  - first:
+      213: 21300114
+    second: TX Village House Struct Diag 3X2 B
+  - first:
+      213: 21300116
+    second: TX Village House Roof 6X3
+  - first:
+      213: 21300118
+    second: TX Village House Roof 6X3 Shadow
+  - first:
+      213: 21300120
+    second: TX Village House Lantern A On
+  - first:
+      213: 21300122
+    second: TX Village House Lantern A Off
+  - first:
+      213: 21300124
+    second: TX Village House Lantern Base
+  - first:
+      213: 21300126
+    second: TX Village House Fence B
+  - first:
+      213: 21300128
+    second: TX Village House Window E
+  - first:
+      213: 21300130
+    second: TX Village House Attic Side Shadow
+  - first:
+      213: 21300132
+    second: TX Village House Window C Side
+  - first:
+      213: 21300134
+    second: TX Village House Chimney C
+  - first:
+      213: 21300136
+    second: TX Village House Roof Half 3X2
+  - first:
+      213: 21300138
+    second: TX Village House Roof Half 3X2 Shadow
+  - first:
+      213: 21300140
+    second: TX Village House Door B Frame
+  - first:
+      213: 21300142
+    second: TX Village House Door B
+  - first:
+      213: 21300144
+    second: TX Village House Window F
+  - first:
+      213: 21300146
+    second: TX Village House Stair
+  - first:
+      213: 21300148
+    second: TX Village House Shadow Stair
+  - first:
+      213: 21300150
+    second: TX Village House Door C
+  - first:
+      213: 21300152
+    second: TX Village House Pillar Diag A
+  - first:
+      213: 21300154
+    second: TX Village House Pillar Diag B
+  - first:
+      213: 21300156
+    second: TX Village House Pillar Diag C
+  - first:
+      213: 21300158
+    second: TX Village House Window G
+  - first:
+      213: 21300160
+    second: TX Village House Support 1X1 B
+  - first:
+      213: 21300162
+    second: TX Village House Support 1X1 A
+  - first:
+      213: 21300164
+    second: TX Village House Pulley
+  - first:
+      213: 21300166
+    second: TX Village House Rope
+  - first:
+      213: 21300168
+    second: TX Village House Hook
+  - first:
+      213: 21300170
+    second: TX Village House Roof Half 3X2 Brick
+  - first:
+      213: 21300172
+    second: TX Village House Stair Brick Front
+  - first:
+      213: 21300174
+    second: TX Village House Window HA
+  - first:
+      213: 21300176
+    second: TX Village House Wall Brick X4
+  - first:
+      213: 21300178
+    second: TX Village House Shadow Gradient Vert
+  - first:
+      213: 21300180
+    second: TX Village House Roof 4X2 Wood
+  - first:
+      213: 21300182
+    second: TX Village House Roof Shed Side
+  - first:
+      213: 21300184
+    second: TX Village House Roof Shed Side Shadow
+  - first:
+      213: 21300186
+    second: TX Village House Roof Rainshed X2
+  - first:
+      213: 21300188
+    second: TX Village House Roof Rainshed X2 Shadow
+  - first:
+      213: 21300190
+    second: TX Village House Lantern B On
+  - first:
+      213: 21300192
+    second: TX Village House Lantern B Off
+  - first:
+      213: 21300194
+    second: TX Village House Window HB
+  - first:
+      213: 21300196
+    second: TX Village House Window HC
+  - first:
+      213: 21300198
+    second: TX Village House Shadow Tri A
+  - first:
+      213: 21300200
+    second: TX Village House Shadow Tri B
+  - first:
+      213: 21300202
+    second: TX Village House Roof 5X2
+  - first:
+      213: 21300204
+    second: TX Village House Roof 5X2 Wood
+  - first:
+      213: 21300206
+    second: TX Village House Roof 5X2 Brick
+  - first:
+      213: 21300208
+    second: TX Village House Roof 5X2 Shadow
+  - first:
+      213: 21300210
+    second: TX Village House Roof Tile 3X1
+  - first:
+      213: 21300212
+    second: TX Village House Roof 6X2 Wood
+  - first:
+      213: 21300214
+    second: TX Village House Roof 6X2 Brick
+  - first:
+      213: 21300216
+    second: TX Village House Roof 6X3 Wood
+  - first:
+      213: 21300218
+    second: TX Village House Roof 6X3 Brick
+  - first:
+      213: 21300220
+    second: TX Village House Roof Half 3X2 Wood
+  - first:
+      213: 21300222
+    second: TX Village House Window A Side
+  - first:
+      213: 21300224
+    second: TX Village House Window B Side
+  - first:
+      213: 21300226
+    second: TX Village House Window F Side
+  - first:
+      213: 21300228
+    second: TX Village House Window G Side
+  - first:
+      213: 21300230
+    second: TX Village House Roof 4X2 Brick
+  - first:
+      213: 21300232
+    second: TX Village House Window D Side
+  - first:
+      213: 21300234
+    second: TX Village House Window E Side
+  - first:
+      213: 21300236
+    second: TX Village House Door B Frame Side
+  - first:
+      213: 21300238
+    second: TX Village House Struct Diag 3X3 C
+  - first:
+      213: 21300240
+    second: TX Village House Nail
+  - first:
+      213: 21300242
+    second: TX Village House Flower Pot A
+  - first:
+      213: 21300244
+    second: TX Village House Flower Pot B
+  - first:
+      213: 21300246
+    second: TX Village House Flower Pot C
+  - first:
+      213: 21300248
+    second: TX Village House Flower Pot D
+  - first:
+      213: 21300250
+    second: TX Village House Flower Pot Hanger
+  - first:
+      213: 21300252
+    second: TX Village House Wall Brick X3
+  - first:
+      213: 21300254
+    second: TX Village House Window I
+  - first:
+      213: 21300256
+    second: TX Village House Window I Side
+  - first:
+      213: 21300258
+    second: TX Village House Window Shed
+  - first:
+      213: 21300260
+    second: TX Village House Window Shed Side
+  - first:
+      213: 21300262
+    second: TX Village House Parterre Plant A
+  - first:
+      213: 21300264
+    second: TX Village House Parterre Bed A
+  - first:
+      213: 21300266
+    second: TX Village House Parterre Plant B
+  - first:
+      213: 21300268
+    second: TX Village House Parterre Plant C
+  - first:
+      213: 21300270
+    second: TX Village House Parterre Plant D
+  - first:
+      213: 21300272
+    second: TX Village House Parterre Bed B
+  - first:
+      213: 21300274
+    second: TX Village House Parterre Bed C
+  - first:
+      213: 21300276
+    second: TX Village House Parterre Bed D
+  - first:
+      213: 21300278
+    second: TX Village House Roof 5X5
+  - first:
+      213: 21300280
+    second: cainos@cainos.net
+  - first:
+      213: 21300282
+    second: TX Village House Roof 5X5 Wood
+  - first:
+      213: 21300284
+    second: TX Village House Roof 5X5 Brick
+  - first:
+      213: 21300286
+    second: TX Village House Roof 5X5 Shadow
+  - first:
+      213: 21300288
+    second: TX Village House Banner Blue
+  - first:
+      213: 21300290
+    second: TX Village House Attic Side Wood
+  - first:
+      213: 21300292
+    second: TX Village House Window J
+  - first:
+      213: 21300294
+    second: TX Village House Window J Side
+  - first:
+      213: 21300296
+    second: TX Village House Windmill Fan A
+  - first:
+      213: 21300298
+    second: TX Village House Windmill Fan B
+  - first:
+      213: 21300300
+    second: TX Village House Windmill Center
+  - first:
+      213: 21300302
+    second: TX Village House Struct Diag 3X2 C
+  - first:
+      213: 21300304
+    second: TX Village House Banner Red
+  - first:
+      213: 21300306
+    second: TX Village House Banner Green
+  - first:
+      213: 21300308
+    second: TX Village House Roof Tile 3X2
+  - first:
+      213: 21300310
+    second: TX Village House Attic Side Brick
+  - first:
+      213: 21300312
+    second: TX Village House Attic Wood
+  - first:
+      213: 21300314
+    second: TX Village House Attic Brick
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 383, z: 0, w: 108}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Village House Beam X6 A
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 490
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58b9976c430f343ba9e74f4f2c1363
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar X3 C
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 384
+        width: 10
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 29, z: 2, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f0333a0601ac45867e97562307642
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross C
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 491
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0804f7970200a409340fe0d208105e
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar X3 B
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 384
+        width: 10
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 29, z: 2, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78497474b2dbb244b741eaf6b88cf5b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar X3 A
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 384
+        width: 10
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 29, z: 2, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367fa48fb9e3f44db972f2c0b2b1338
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross B
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 491
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c54ea6f5435b340b74cfd6328302ce
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross A
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 491
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05c549f0dfc33447b6f5b2fdce9c9af
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door A
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 352
+        width: 39
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868572fc8f24ca448afc15ce72b3968
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door A Shadow
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 352
+        width: 39
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6490d9f78f0bbe4581625073a5a34d7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window A
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 367
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f6e653cfae7d4d99b5c7ad4b37e0c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X3 A
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec967f3045fbb48836466485a83622
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag Shadow A
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 300
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34384dc332e64c94b8e447e258d62bd3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Beam X6 B
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 474
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6faab4674e3164483f2e000519a9d3
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Beam X6 C
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 457
+        width: 192
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601dd4db4d99ca418a31c9778d174ce
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Hori A
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 493
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd128004d6b90a4492401ded296b0ee
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Hori B
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8e9eaedc88de4c810e2d38aa9d2b7
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Hori C
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 467
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 0, z: 32, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d57db37036ac408541d5ddae43072
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 377
+        width: 236
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14537cb178e784db950bd89edd255f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X2 Shadow
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 319
+        width: 204
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa842af70f7d14db08efc5f23a6a55
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Rod Hori X2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 498
+        width: 64
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f9dcb38a062be4b9978e89d5bf959e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 450
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b73a89fd53b5a4092cedfcabefd283
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign Hanger
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 473
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66582d75e9a5cd6498b68f9f89922098
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Chain
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 320
+        width: 3
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e931f132cb21c489f5a1a8651623cd
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign Icon Weapon
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35c589e38e8184da41e60ae7cacc5d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign Icon Bear
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c41fc44cc1d8e43aadddc672cc37d9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign Icon Blacksmith
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eed1f9b9c3064499e2870fadebc3b8
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Chimney A
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 43
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 82, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f99ad7464f794680e628c9b406356
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Sign Icon Potion
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 295
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687f91ebf914e84db62565fb95da900
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Plank Floor
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 301
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2ea53a83547f44b0ff1b32282ab1a
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Fence A
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 36
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60852b5821d496f42b8a4bb628ae9aae
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Support 1X1 C
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76062b650f385a44ea396c6520a5e03c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X3 B
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8e633a05ba5d40ab23f3acd16f7b0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Diag
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d572e1558034841b3f228c1566ec91
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Base 9X1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 9
+        width: 280
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657bb875b145c145ab9606ff3eb731c
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window B
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 262
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a41640f65f54f4395cb8c6998e5df7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Square
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3477682c1a992fd46b4f1efc32aeda0d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Tile 6X2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 61
+        width: 220
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e9204f817e004d8e1ea7836083b85
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 4X2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 649
+        width: 126
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1272f32316d54597287bd550ac24c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 4X2 Shadow
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 657
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258074ccbe9d2d14da4c421756c4bc2e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Outfall
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2ed30268c946044a6399f0660f53eb
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Window Side
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 919
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26608459a93f043b2826a3a7866002
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Window Side Shadow
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 979
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77673944371f0647bc56df04cae8ccc
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Chimney B
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 34, z: 0, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8205d8d7d7f4ff14a916f9945751f3d2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 144
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d09c1f9652dcb74e9f553d47dcf344a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Roof Shadow
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 172
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba29a61e893d3459842adb524f0dab
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Shadow
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 203
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bee523a534211489e94296160cb72c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window C
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34fa170f2d68c4aa841fbaa06595ff
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Wall Brick 4X3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 9
+        width: 141
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbec5512ee1876408e0582f9ef412ed
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Side
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 775
+        width: 73
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cec652a9263df489a3c63f67bddcb1
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross Round A
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 492
+        width: 16
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dbd470a41b5f4459fee9036b74f1f9
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross Round B
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 492
+        width: 16
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce147ffa5f68e4684879e100de3867
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Cross Round C
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 492
+        width: 16
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f90f42030d904aa511c89f6242359
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door Frame Wood Side
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 385
+        width: 14
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d9de1442e8ca49b1772f1c5413164
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window D
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 268
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0825b2401b78fd94a817bd1425866144
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X2 A
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 414
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4335d2627edfc574088a0d9c829b0e7f
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X2 B
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 316
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8232c43bcafe2b54c98171d7eefd5555
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 878
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07551a7a6e4f16b4485fa14b19f96033
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X3 Shadow
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 760
+        width: 204
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600bd1f44b4786146959458c8114ff25
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Lantern A On
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 355
+        width: 18
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0c8b2ea06ef74b9e0bc6b9e4a0800
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Lantern A Off
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 322
+        width: 18
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5766736c87615444596cdd145ee2469f
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Lantern Base
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 364
+        width: 12
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d0525afffe7140ad85f48ef9e49bc
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Fence B
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 69
+        width: 147
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253543de295a8144aaf0f620c1601c20
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window E
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f733bce307be145963ad31b1177416
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Side Shadow
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 841
+        width: 66
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b12cc110620ef4ab1367cc9cc860e6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window C Side
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 6
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a4fc545486ed438530f42cdf46b9f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Chimney C
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 31
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9386329d6c503e41ae78807715036bc
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Half 3X2
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 648
+        width: 121
+        height: 65
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca350097012ea7468aa5173bc0264fd
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Half 3X2 Shadow
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 643
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68589a9f9d236645a2ab3f09e21c5c1
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door B Frame
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 435
+        width: 65
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24187904864de74d920f3c42f61f644
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door B
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 435
+        width: 49
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b823daef38f9864dba0daa2f9219885
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window F
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 199
+        width: 43
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a879d8cf563c3cb488aee7644cf9ab11
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Stair
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 464
+        width: 20
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e01ac216ff48048982ca39f4db2f4a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Stair
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 461
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5316205cef8dd2349a9af3e6405d8648
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door C
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 436
+        width: 39
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30357f826e1079459270c70abb5da84
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Diag A
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 320
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436ea3ea493b3740a3119d7e3562dbc
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Diag B
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b62cdc226bd140878a4085a1fc652
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pillar Diag C
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefe8c91f46da14a93ce7f17900b1bd
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window G
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 320
+        width: 41
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96bbe99ad90244195d124053040188
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Support 1X1 B
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 285
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9379bc96f631e354fae8081bd5d83621
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Support 1X1 A
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547890f92dde7c4598bcac1d96db27a
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Pulley
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 97
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e03c8974038df46b259a1ecf2cb490
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Rope
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 319
+        width: 3
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881ec01f202cc7f4f924b3e7c45115f6
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Hook
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 103
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20604d783f734f42be55a3977f3d8c7
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Half 3X2 Brick
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 512
+        width: 121
+        height: 65
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b96546d8aaeb44aa428110d0430c8f
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Stair Brick Front
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 121
+        width: 57
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede7394118d96ad448f8a017bf3ef469
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window HA
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 85
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adaf66b67bc1ad4c9bea6da0602cc38
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Wall Brick X4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 598
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67214df03f3014c8e44800a9b628f1
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Gradient Vert
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 16
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c180c35b24b4bf44a935a2ebd7c9922b
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 4X2 Wood
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 581
+        width: 126
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d41ef19c749347b515452dd0139fa
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Shed Side
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 517
+        width: 172
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fd2cebbb311945a4c20390482cfaf
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Shed Side Shadow
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 568
+        width: 142
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36fc97e7248364a842b1d79ee9ac6c
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Rainshed X2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 6
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e072da3ee7c24d8eba389d055b85d
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Rainshed X2 Shadow
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 53
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e0e654cfb43545974d9dd9acc8ac1
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Lantern B On
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 389
+        width: 13
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22908f6e46803b1438ac355c9300ffa3
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Lantern B Off
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 358
+        width: 13
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33c56ff162f5b4ab9c91098b00bd44
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window HB
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 46
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a80256aa656f4ab484f14e100724d
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window HC
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ddbd35bd71dba4da8e8eaeadd17d3c
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Tri A
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 390
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321190dc91949f4419acb7a5912d9fdd
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Shadow Tri B
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 418
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c2728b56470944b88b860d06920b1
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 514
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aca3fef40068e4e85a15a1c99d669b
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X2 Wood
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 514
+        width: 140
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285bda2b00327754bab946a32ad69990
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X2 Brick
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 514
+        width: 140
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af5a31b6f454ff4d8569cfc9518f338
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X2 Shadow
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 591
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7006fc6f558b94aa3130366c981bce
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Tile 3X1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 119
+        width: 89
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122cdfe990592a642b2a46b04a859dc7
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X2 Wood
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 596
+        width: 236
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d7cdfcba505347a23ff8d639a1b07
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X2 Brick
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 674
+        width: 236
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b22d986880d04bb2c6311d4247bb8
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X3 Wood
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 752
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79028a2a6a44c2244af55a0c68b9b4f1
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 6X3 Brick
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 879
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12cf031da45224da78191f31dbd579
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Half 3X2 Wood
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 579
+        width: 121
+        height: 65
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7af4db1417f0c44887a9e736d82203
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window A Side
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 367
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464cf7f9f6de7f40b5103a91de7e60b
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window B Side
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 262
+        width: 7
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf65c74931590184cbbba0e31bbefa2b
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window F Side
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 199
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7b5290b7d5dd4c9159312f33a4f33
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window G Side
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 11
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8501a8def8ce2b40a07110db54fe6ea
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 4X2 Brick
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 515
+        width: 126
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066e06facfceec64881a7192b8e2f8f4
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window D Side
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 268
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82d2f770225404481310643937684d
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window E Side
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 270
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b72339f02ce04c8ab963712348901
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Door B Frame Side
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 435
+        width: 11
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280d55ee211c644a9fda6d944c397b7
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X3 C
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7131377bcd31748bcc6f60a528129a
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Nail
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 118
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc713a7e5d5ed64cb71644c343ea6f8
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Flower Pot A
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c180a0552acff9243bcb26fe93e54732
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Flower Pot B
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210a26f292ee90a42bad7049f4bb3b94
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Flower Pot C
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 3
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ce6cf36b09a247800cfda7650e9ce
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Flower Pot D
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1ab2b35f5ec94495e8a52719afb76
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Flower Pot Hanger
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 8
+        width: 17
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ee3c76c2f6544aaa6d53d284aad72
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Wall Brick X3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 736
+        width: 100
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354042ca42738a4fa759f9c5c7e5811
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window I
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 219
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e9dc7b0d650445a13bf6375aa3d8e
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window I Side
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 219
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b6df9484691143adaf40eb212562a
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window Shed
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 162
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a86730a178f514082fed9a708d2dd5
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window Shed Side
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 162
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91c3de52bc20a4cbabd1c07973e3dc
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Plant A
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 485
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea9e5b6517b584bb8c0bf8f971dd8c
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Bed A
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 426
+        width: 41
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d2ee51770a1a049b61e5a17aa86025
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Plant B
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 454
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b33352416308544bb85c0be4d27f40b
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Plant C
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 481
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55e2dc962a6d645a0c963705821807
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Plant D
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 453
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a28b612f105484d8e5193fd9a108ba
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Bed B
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 424
+        width: 41
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f9fa249513bb41b42f1d82ef7bad6
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Bed C
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 392
+        width: 43
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0656d6b4dcede4e87f41974bb73849
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Parterre Bed D
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 392
+        width: 43
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58379cdd68cd8e42afaf6291fa875d5
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 863
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624aaaae88929224cb73683c2d604a30
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cainos@cainos.net
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1016
+        width: 94
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4499aca752dd3d458edd059e9cdd212
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X5 Wood
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 863
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a96299e0353db49996001d64fc84a2
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X5 Brick
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 863
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0662a31597d67429425c92f3c2bca4
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof 5X5 Shadow
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 741
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874354c84e00426428d7788841492f28
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Banner Blue
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 173
+        width: 28
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a09c8f917f1774a8094c9a8612880f
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Side Wood
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 712
+        width: 73
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518ff8c2529cec4d9196b199243de50
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window J
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 241
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f4a61902301848b3f4b26b9b6cb86
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Window J Side
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 241
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4409d0228f9a7a540ae37ef8171e8374
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Windmill Fan A
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 317
+        width: 196
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e283d76679b9e4789e3a6894380048
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Windmill Fan B
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 247
+        width: 196
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb61c8f42644142873117f31fb778f
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Windmill Center
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 159
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486586cf772a37c42b7a87a352b1549f
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Struct Diag 3X2 C
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 214
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4662702725bf4189971a7294d5cc3
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Banner Red
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 173
+        width: 28
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef40ab9c37f03254b8f6f7ffca3f2a8a
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Banner Green
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 104
+        width: 28
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32c44a4abb34214eb51fbfe5a5220a4
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Roof Tile 3X2
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 768
+        width: 129
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4692aa6e11e471d40ba88ad7629c07ee
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Side Brick
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 703
+        width: 73
+        height: 56
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f4ed38f6a1c741909bca89ff59795
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Wood
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47105d7eadb9247987151bcadf65fb
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village House Attic Brick
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 144
+        width: 60
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de1959913c46643a9d9f1dacb9c574
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
