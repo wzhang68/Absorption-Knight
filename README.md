@@ -31,7 +31,3 @@ Unity Collaboration
 ## Game Design Document
 <a href = "https://docs.google.com/document/d/1DQLGOL8yS4D3yFe24zotkJTiEzg1AlEOmyXNIn4dpcU/edit"> Please Click Here </a>
 
-<br><br><br>
-<a href = "https://games.usc.edu/">
-  <img src="https://drive.google.com/uc?export=view&id=1DJDHBDdzHTLQ-fLe9e9lNPfZJZ79dsWd" width = "30%" height = "30%"/> 
-</a>
