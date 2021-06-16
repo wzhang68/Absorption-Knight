@@ -1,4 +1,5 @@
-# Absorption-Knight
+# Absorption-Knight 
+## ----Will be updated frequently---- 
 Absorption Knight is a single player, 2D action-adventure side-scrolling game. You play as the young explorer Teodoro who encounters tsunami during his adventure. To find the way home, our protagonist will fight against monsters and build close relationships with villagers on the mysterious island. Along the journey, Teodoro gradually finds the secrets behind the incredible magical power. The main story is narrated by dialogues after boss battles and between Teodoro and villagers. Players need to collect energy balls which are dropped from dead monsters as the fuel in order to launch the magical crystal. When players launch the magical crystal, Teodoro will be sent back to the original world.
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1ir4jtFUS86zAFMZrqHw61IeeWEZfSxXb" width = "80%" height = "80%"> 
